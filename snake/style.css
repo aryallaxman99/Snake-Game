@@ -22,15 +22,16 @@
       border: 10px solid #578A34;
       border-radius: 10px;
       padding: 50px;
-      background-color: #99CC33;
+      background-color: #98B21D;
     }
 
     .gameover{
       position: absolute;
-      top: 25%;
+      top: 30%;
       padding: 15px;
       width: 100%;
       display: none;
+      border: 10px solid #578A34;
       border-radius: 10px;
       text-align: center;
       background-color: #99CC33;
