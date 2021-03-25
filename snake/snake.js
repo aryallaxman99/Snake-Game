@@ -39,6 +39,9 @@
 		// create the score
 
 		let score = 0;
+
+		// increase speed 
+
 		let hit = 0;
 
 
@@ -78,9 +81,8 @@
 		    ctx.drawImage(ground,0,72);
 		    
 		    for( let i = 0; i < snake.length ; i++){
-		        ctx.fillStyle = ( i == 0 )? "#99CC33" : "#99CC33";
+		        ctx.fillStyle = ( i == 0 )? "#73854A" : "#99CC33";
 		        ctx.fillRect(snake[i].x,snake[i].y,box,box);
-		        
 		        ctx.strokeStyle = "black";
 		        ctx.strokeRect(snake[i].x,snake[i].y,box,box);
 		    }
