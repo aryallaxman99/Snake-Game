@@ -1,5 +1,5 @@
-# Snake-Gamet
-Try to make snake game using HTML, CSS and Javascript.
+# Snake-Game
+Try to make snake game using HTML, CSS, PHP and JavaScript.
 Snake game is simply developed using HTML and JavaScript.
 The PC controls of this game are also simple.
 You just have to use the arrow keys of the keyboard for moving the snake in different directions. 
